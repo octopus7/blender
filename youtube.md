@@ -2,6 +2,8 @@
 
 # 유튜브 영상 링크
 
+## 툰
+The BNPR Show #2: Modeling for Style https://www.youtube.com/watch?v=7NaRi37b9sQ
 
 ## 길티기어  스타일
 https://youtu.be/UHGoy6A_DmY
