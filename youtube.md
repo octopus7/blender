@@ -14,6 +14,7 @@
 * [Guilty Gear Stylized shader in Blender's EEVEE (Part 1 of 4)](https://youtu.be/UHGoy6A_DmY)
 * [이너라인 넣는법](https://youtu.be/HWeRsxSj3VA)
 * [페이스 노멀 편집](https://youtu.be/O8qhWTpPOw4)
+* [ILM 맵](https://youtu.be/M-vcICwlI4w)
 
 ## 언리얼
 * [인디게임 데브로그](https://youtu.be/iHoCMiUD5-Q)
