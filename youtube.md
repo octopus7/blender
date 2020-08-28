@@ -11,6 +11,7 @@
 
 ## 길티기어  스타일
 * [Guilty Gear Stylized shader in Blender's EEVEE (Part 1 of 4)](https://youtu.be/UHGoy6A_DmY)
+* [이너라인 넣는법](https://youtu.be/HWeRsxSj3VA)
 
 ## 언리얼
 * [인디게임 데브로그](https://youtu.be/iHoCMiUD5-Q)
