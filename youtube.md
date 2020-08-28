@@ -2,7 +2,7 @@
 
 # 유튜브 영상 링크
 
-* [링크]()
+* [텍스트]()
 
 ## 툰
 * [The BNPR Show #2: Modeling for Style](https://youtu.be/7NaRi37b9sQ)
