@@ -3,7 +3,8 @@
 유튜브 영상 링크
 
 
-
+길티기어  스타일
+https://youtu.be/UHGoy6A_DmY
 
 
 
