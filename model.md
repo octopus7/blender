@@ -7,3 +7,5 @@
 - 뷰포트 셰이드 - 솔리드
 - 우측 아래방향 삼각형 - 컬러 - Vertex
 
+# 와이어 프레임 보이기
+- object properties - viewport display - Show wireframe
