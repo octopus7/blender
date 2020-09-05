@@ -9,3 +9,6 @@
 
 # 와이어 프레임 보이기
 - object properties - viewport display - Show wireframe
+
+# 단축키
+- M : 병합
