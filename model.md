@@ -17,3 +17,7 @@
 - V : 인접뜯어내기
 - Y : 찢기
 - P : 오브젝트 분리 (병합 : Ctrl+J)
+- Alt + LMB : 루프 선택
+- Shift + RMB : 커서
+- Ctrl + L : 엘리먼트 선택
+- Ctrl + F : tri to quad
