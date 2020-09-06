@@ -10,6 +10,11 @@
 # 와이어 프레임 보이기
 - object properties - viewport display - Show wireframe
 
+# 단축키 (공용)
+- A : 전체선택
+- H : 숨김
+
+
 # 에디트모드 단축키
 - M : 병합
 - Shift + D : 선택한것 복제
