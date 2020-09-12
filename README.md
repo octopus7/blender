@@ -2,7 +2,7 @@
 blender 3d 
 
 
-
+- [애드온](plugin.md)
 - [유튜브 참고자료 링크](youtube.md)
 - [모델링](model.md)
 
