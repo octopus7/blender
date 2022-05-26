@@ -1,5 +1,5 @@
 # blender
-blender 3d 
+blender 3d 개인정리용 위키
 
 
 - [애드온](plugin.md)
