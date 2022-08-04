@@ -5,6 +5,7 @@ blender 3d 개인정리용 위키
 - [애드온](plugin.md)
 - [유튜브 참고자료 링크](youtube.md)
 - [모델링](model.md)
+- [모델링 헤어](hair.md)
 - [리깅](setup.md)
 - [뷰포트](viewport.md)
 - [2.8 새 스컬프트 모드](https://www.artstation.com/pablodp606/blog/1vEn/new-blender-sculpt-mode-introduction)
